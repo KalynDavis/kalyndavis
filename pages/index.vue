@@ -8,7 +8,7 @@
         <div class="px-6">
           <div class="flex flex-wrap justify-center">
             <div class="w-full flex justify-center relative">
-                <img src="~/assets/profile.jpeg" class="shadow-xl rounded-full align-middle border-none absolute -bottom-16 max-w-[150px]"/>
+                <img src="~/assets/profile.jpeg" alt="Profile picture" class="shadow-xl rounded-full align-middle border-none absolute -bottom-16 max-w-[150px]"/>
             </div>
           </div>
           <div class="text-center mt-20">
@@ -26,7 +26,7 @@
               <div class="w-full px-4">
                 <p class="font-light leading-relaxed text-slate-600 mb-4">An explorer of life through technology, Kalyn resides in the Birmingham area of Alabama working as a Senior Software Engineer in Sports Tech. When he isn't trying out a new hobby, Kalyn enjoys spending time with his wife and their 3 pets.
                   </p>
-                <span><a class="text-slate-400 hover:text-slate-700" href="mailto:contact@kalyndavis.dev">contact@kalyndavis.dev</a>.</span>
+                <span><a class="text-slate-400 hover:text-slate-700" href="mailto:contact@kalyndavis.dev">contact@kalyndavis.dev</a></span>
               </div>
             </div>
           </div>
