@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <div class="flex">
+  <div class="flex h-screen">
     <div class="m-auto">
       <div class="relative max-w-md mx-auto md:max-w-2xl min-w-0 break-words bg-white w-full mb-10 shadow-lg rounded-xl mt-24">
         <div class="px-6">
