@@ -2,9 +2,9 @@
 </script>
 
 <template>
-  <div class="flex h-full">
+  <div class="flex">
     <div class="m-auto">
-      <div class="relative max-w-md mx-auto md:max-w-2xl min-w-0 break-words bg-white w-full mb-6 shadow-lg rounded-xl mt-24">
+      <div class="relative max-w-md mx-auto md:max-w-2xl min-w-0 break-words bg-white w-full mb-10 shadow-lg rounded-xl mt-24">
         <div class="px-6">
           <div class="flex flex-wrap justify-center">
             <div class="w-full flex justify-center relative">
