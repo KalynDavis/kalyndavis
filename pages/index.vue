@@ -26,7 +26,8 @@
               <div class="w-full px-4">
                 <p class="font-light leading-relaxed text-slate-600 mb-4">An explorer of life through technology, Kalyn resides in the Birmingham area of Alabama working as a Senior Software Engineer in Sports Tech. When he isn't trying out a new hobby, Kalyn enjoys spending time with his wife and their 3 pets.
                   </p>
-                <span><a class="text-slate-400 hover:text-slate-700" href="mailto:contact@kalyndavis.dev">contact@kalyndavis.dev</a></span>
+                <span><a class="text-slate-400 hover:text-slate-700 mr-4" target="_blank" href="mailto:contact@kalyndavis.dev">contact@kalyndavis.dev</a></span>
+                <span><a class="text-slate-400 hover:text-slate-700" target="_blank" rel="me" href="https://mastodon.social/@kalyndavis">@kalyndavis</a></span>
               </div>
             </div>
           </div>
