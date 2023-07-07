@@ -1,4 +1,9 @@
-<script setup>
+<script setup lang="ts">
+const { $posthog } = useNuxtApp()
+if ($posthog) {
+  const posthog =$posthog()
+  posthog?.capture('Sample')
+}
 </script>
 
 <template>

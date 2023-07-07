@@ -18,5 +18,11 @@ export default defineNuxtConfig({
             title: "Kalyn Davis | Full-Stack Engineer",
             meta: [{ name: 'description', content: 'Kalyn Davis, a Full-Stack Software Engineer from Birmingham, Alabama.' }],
         }
+    },
+    runtimeConfig: {
+        public: {
+            posthogPublicKey: process.env.POSTHOG_API_KEY,
+            posthogHost: process.env.POSTHOG_HOST
+        }
     }
 })
